@@ -2,6 +2,7 @@ import citation from './citation';
 import concept from './concept';
 import contact from './contact';
 import intake from './intake';
+import loanin from './loanin';
 import location from './location';
 import movement from './movement';
 import objectexit from './objectexit';
@@ -19,6 +20,7 @@ export default [
   concept,
   contact,
   intake,
+  loanin,
   location,
   movement,
   objectexit,
