@@ -34,6 +34,17 @@ export default {
   'field.intakes_common.fieldCollectionSource.name': 'Field collection source (person or cultural group)',
   'field.intakes_common.normalLocation.name': 'Home location',
 
+  // loan out
+
+  'record.loanout.name': 'Out Loan',
+  'record.loanout.collectionName': 'Out Loans',
+  'panel.loanout.info': 'Outgoing Loans Information',
+  'field.loansout_common.loanOutNumber.name': 'Loan number',
+  'field.loansout_common.lendersAuthorizer.name': 'PAHMA authorizer',
+  'field.loansout_common.lendersContact.name': 'PAHMA contact',
+  'field.loansout_common.specialConditionsOfLoan.name': 'Loan conditions',
+  'field.loansout_common.loanOutNote.name': 'Loan note',
+
   // location
 
   'vocab.location.local.name': 'PAHMA',
