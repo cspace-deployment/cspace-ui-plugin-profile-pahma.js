@@ -34,6 +34,11 @@ export default {
   'field.intakes_common.fieldCollectionSource.name': 'Field collection source (person or cultural group)',
   'field.intakes_common.normalLocation.name': 'Home location',
 
+  // exhibition
+  'field.exhibitions_common.workingGroup.name': 'Exhibition working group',
+  'field.exhibitions_common.title.name': 'Exhibition title',
+  'field.exhibitions_common.type.name': 'Exhibition type',
+
   // location
 
   'vocab.location.local.name': 'PAHMA',
