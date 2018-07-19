@@ -13,10 +13,12 @@ import place from './place';
 import taxon from './taxon';
 import valuation from './valuation';
 import work from './work';
+import conditioncheck from './conditioncheck';
 
 export default [
   citation,
   concept,
+  conditioncheck,
   contact,
   intake,
   location,

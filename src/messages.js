@@ -34,6 +34,11 @@ export default {
   'field.intakes_common.fieldCollectionSource.name': 'Field collection source (person or cultural group)',
   'field.intakes_common.normalLocation.name': 'Home location',
 
+  // condition check
+
+  'field.conditionchecks_common.conditionCheckNote.name': 'Condition note',
+  'panel.conditioncheck.objectRequirementInfo': 'Object Recommendation and Handling Information',
+
   // location
 
   'vocab.location.local.name': 'PAHMA',
