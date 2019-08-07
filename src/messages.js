@@ -28,7 +28,7 @@ export default {
   'field.acquisitions_common.acquisitionReason.name': 'Accession reason',
   'field.acquisitions_common.acquisitionProvisos.name': 'Accession provisos',
 
-  // collection object
+  // collection/cataloging object
 
   'field.collectionobjects_common.briefDescription.name': 'Description',
   'field.collectionobjects_common.objectNumber.name': 'Museum number',
