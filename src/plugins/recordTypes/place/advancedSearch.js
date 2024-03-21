@@ -43,6 +43,10 @@ export default (configContext) => {
       },
       {
         op: OP_CONTAIN,
+        path: 'ns2:places_anthropology/anthropologyPlaceOwnerGroupList/anthropologyPlaceOwnerGroup/anthropologyPlaceOwnershipNote',
+      },
+      {
+        op: OP_CONTAIN,
         path: 'ns2:places_anthropology/placeNoteGroupList/placeNoteGroup/placeNoteText',
       },
       ...extensions.core.advancedSearch,
